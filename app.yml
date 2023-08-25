@@ -1,0 +1,7 @@
+application: wide-hexagon-397007
+version: 1
+runtime: go
+
+handlers:
+-url: /.*
+script: _go_app
